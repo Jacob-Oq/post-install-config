@@ -85,7 +85,15 @@ Next we will create a new Level II Support Team to supplement the Level I Suppor
 ![setting up iis -83](https://github.com/Jacob-Oq/post-install-config/assets/150084528/2d844a10-88a4-466a-9dee-2fd3fef61e27)
 
 
+<br />
+<p>We can now create "Help Topics" to help users select an appropriate category that describes their problem so that Agents get an idea what the subject of each ticket is regarding. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In addition to the existing ones, I have added the following in order to use later when creating new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request. </p>
 
+![setting up iis -89](https://github.com/Jacob-Oq/post-install-config/assets/150084528/34abdc7c-9470-4c3f-aca3-d58afe6a6170)
+
+
+<h2>osTicket Configurations are Complete </h2>
+
+<p>Now that the configurations have been set in place, we can now utilize osTicket as a proper ticketing system. We can create tickets and traige them as if they were in a real environment.</p>
 
 
 
